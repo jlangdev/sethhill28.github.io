@@ -1,6 +1,9 @@
-Hello, my name is Seth Hill and I enjoy Data Science and Machine Learning. Sometimes, I post about these subjects here. 
+# Hello and Welcome
 
-![](images/Headshot_resized.JPG)
+My name is Seth Hill and I enjoy Data Science and Machine Learning.
+
+Sometimes, I post about these subjects here. 
+
 
 
 
