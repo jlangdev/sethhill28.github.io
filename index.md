@@ -3,8 +3,7 @@ Hello and welcome to this blog. Its based on the [fast_template](https://github.
 
 Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
 
-<p align="center"><imgsrc="images/Headshot_resized.jpg"alt="Seth's custom image"/>
-</p>![image](https://user-images.githubusercontent.com/60534554/138011591-840c114e-fa72-4a75-bab8-165fdbda6bb0.png)
+![headshot](images/Headshot_resized.JPG)![image](https://user-images.githubusercontent.com/60534554/138011927-738be50b-5433-44fb-8ce5-9e2737a5733d.png)
 
 
 
