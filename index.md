@@ -5,6 +5,7 @@ Edit the `index.md` file to change this content. All pages on the blog, includin
 
 
 
-<p align="center"><imgsrc="images/Headshot_resized"alt="Seth's custom image"/>
-</p>![image](https://user-images.githubusercontent.com/60534554/138011350-94d26bea-e6f5-4dc6-83b9-ca01ed7866fb.png)
+<p align="center"><imgsrc="images/Headshot_resized.JPG"alt="Seth's custom image"/>
+</p>![image](https://user-images.githubusercontent.com/60534554/138011447-4866a0ac-3c54-4585-b959-dc86da17a54c.png)
+
 
