@@ -1,7 +1,4 @@
-# Seth Hill
-Hello and welcome to this blog. Its based on the [fast_template](https://github.com/fastai/fast_template).
-
-Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Hello, my name is Seth Hill and I enjoy Data Science and Machine Learning. Sometimes, I post about these subjects here. 
 
 ![](images/Headshot_resized.JPG)
 
